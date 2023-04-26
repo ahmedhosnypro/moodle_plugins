@@ -1,7 +1,0 @@
-{
-    "moodle-atto_videotime-button": {
-        "requires": [
-            "moodle-editor_atto-plugin"
-        ]
-    }
-}
